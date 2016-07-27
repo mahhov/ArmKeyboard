@@ -10,8 +10,8 @@ Video showing some example text: https://youtu.be/wEQEwk1muwE
 
 Armenian Alphabet
 Letter	Eastern Pronounciation
-Ա ա	/ɑ/ 
-Բ բ	/b/ 
+Ա ա	/ɑ/  
+Բ բ	/b/  
 Գ գ	/ɡ/ 
 Դ դ	/d/ 
 Ե ե	/ɛ/ 
