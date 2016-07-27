@@ -10,43 +10,43 @@ Video showing some example text: https://youtu.be/wEQEwk1muwE
 
 Armenian Alphabet
 Letter	Eastern Pronounciation
-Ա ա	/ɑ/
-Բ բ	/b/
-Գ գ	/ɡ/
-Դ դ	/d/
-Ե ե	/ɛ/
-Զ զ	/z/
-Է է	/ɛ/
-Ը ը7	/ə/
-Թ թ	/tʰ/
-Ժ ժ	/ʒ/
-Ի ի	/i/
-Լ լ	/l/
-Խ խ	/χ/
-Ծ ծ	/ts/
-Կ կ	/k/
-Հ հ	/h/
-Ձ ձ	/dz/
-Ղ ղ	/ʁ/
-Ճ ճ	/tʃ/
-Մ մ	/m/
-Յ յ	/h/, /j/
-Ն ն	/n/, /ŋ/
-Շ շ	/ʃ/
-Ո ո	/o/, word-initially /vo/
-Չ չ	/tʃʰ/
-Պ պ	/p/
-Ջ ջ	/dʒ/
-Ռ ռ	/r/
-Ս ս	/s/
-Վ վ	/v/
-Տ տ	/t/
-Ր ր	/ɾ/3
-Ց ց	/tsʰ/
-Ւ ւ	/v/5
-Փ փ	/pʰ/
-Ք ք	/kʰ/
-և	/ev/, word-initially /jev/
-Օ օ	/o/
-Ֆ ֆ	/f/
+Ա ա	/ɑ/ 
+Բ բ	/b/ 
+Գ գ	/ɡ/ 
+Դ դ	/d/ 
+Ե ե	/ɛ/ 
+Զ զ	/z/ 
+Է է	/ɛ/ 
+Ը ը7	/ə/ 
+Թ թ	/tʰ/ 
+Ժ ժ	/ʒ/ 
+Ի ի	/i/ 
+Լ լ	/l/ 
+Խ խ	/χ/ 
+Ծ ծ	/ts/ 
+Կ կ	/k/ 
+Հ հ	/h/ 
+Ձ ձ	/dz/ 
+Ղ ղ	/ʁ/ 
+Ճ ճ	/tʃ/ 
+Մ մ	/m/ 
+Յ յ	/h/, /j/ 
+Ն ն	/n/, /ŋ/ 
+Շ շ	/ʃ/ 
+Ո ո	/o/, word-initially /vo/ 
+Չ չ	/tʃʰ/ 
+Պ պ	/p/ 
+Ջ ջ	/dʒ/ 
+Ռ ռ	/r/ 
+Ս ս	/s/ 
+Վ վ	/v/ 
+Տ տ	/t/ 
+Ր ր	/ɾ/3 
+Ց ց	/tsʰ/ 
+Ւ ւ	/v/ 
+Փ փ	/pʰ/ 
+Ք ք	/kʰ/ 
+և	/ev/, word-initially /jev/ 
+Օ օ	/o/ 
+Ֆ ֆ	/f/ 
 source: https://en.wikipedia.org/wiki/Armenian_alphabet
