@@ -41,7 +41,7 @@ Letter	Eastern Pronounciation
 Ս ս	/s/  
 Վ վ	/v/  
 Տ տ	/t/  
-Ր ր	/ɾ/3 
+Ր ր	/ɾ/  
 Ց ց	/tsʰ/  
 Ւ ւ	/v/  
 Փ փ	/pʰ/  
