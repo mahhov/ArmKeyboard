@@ -1,5 +1,7 @@
 # ArmKeyboard
 
+~Oct 2014
+
 The Armenian language has 39 letters. Some English letters (such as w) do not have a direct Armenian parallel; and likewise, some Armenian ltters do not have a direct English parallel (such as xh). Morever, some sounds that have converged in the English language, are still distinct in the Armenian language (such as aspirated and unaspirated ph versus p). 
 
 If you try Google translate from Armenian to English, it provides a pop up keyboard with the Armenian letters to use. However, not all the letter layouts can be made intuitive since the letters in English and Armenian do not have a 1->1 relationship. Moreover, it maintains a 1 key -> 1 letter relationship; thus, it is forced to use keys that don't contain English letters, such as & or # to type some of the 39 Armenian letters.
